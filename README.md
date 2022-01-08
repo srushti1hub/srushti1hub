@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srushti1hub&label=Profile%20views&color=0e75b6&style=flat" alt="srushti1hub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srushti1hub" alt="srushti1hub" /></a> </p>
-
 - 🌱 I’m currently learning **Android Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/srushti1hub](https://github.com/srushti1hub)
