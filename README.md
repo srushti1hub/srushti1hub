@@ -8,8 +8,8 @@
 - 📫 How to reach me **srushtirtv18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/srushti rathva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srushti rathva" height="30" width="40" /></a>
-<a href="https://fb.com/srushti rathva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srushti rathva" height="30" width="40" /></a>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/srushti-rathva-7913961b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srushti-rathva-7913961b8/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sciver45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sciver45" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
