@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Srushti Rathva</h1>
-<h3 align="center">Curious CSE Sophomore</h3>
-
+<h1 align="left">Hi 👋, I'm Srushti Rathva</h1>
+<img src="hello.gif" align="right" height="250px" width="350px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srushti1hub&label=Profile%20Views&color=0e75b6&style=flat" alt="srushti1hub" /> </p>
-<img src="hello.gif" align="right"></img>
 
 - 🌱 I’m currently learning **Android Development**
 
