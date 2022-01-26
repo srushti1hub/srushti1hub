@@ -2,6 +2,7 @@
 <h3 align="center">Curious CSE Sophomore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srushti1hub&label=Profile%20Views&color=0e75b6&style=flat" alt="srushti1hub" /> </p>
+<img src="hello.gif" align="right"></img>
 
 - 🌱 I’m currently learning **Android Development**
 
