@@ -7,6 +7,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/srushti1hub](https://github.com/srushti1hub)
 
 - 📫 How to reach me **srushtirtv18@gmail.com**
+
+- 😄 Check out <a href = "https://srushti1hub.github.io/Personal-Website-1.0/">Portfolio Website</a>.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/srushti-rathva-7913961b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srushti rathva" height="30" width="40" /></a>
