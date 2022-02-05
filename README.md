@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srushti </h1>
 <img src="hello.gif" align="right" height="250px" width="350px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srushti1hub&label=Profile%20Views&color=0e75b6&style=flat" alt="srushti1hub" /> </p>
-
+<h3 align="left">About me:</h3>
 - 🌱 I’m currently learning **Android Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/srushti1hub](https://github.com/srushti1hub)
