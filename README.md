@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/srushti1hub](https://github.com/srushti1hub)
+- 👨‍💻 All of my projects are available at [link.](https://github.com/srushti1hub)
 
 - 📫 How to reach me **srushtirtv18@gmail.com**
 
