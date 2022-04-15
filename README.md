@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srushti1hub&label=Profile%20Views&color=0e75b6&style=flat" alt="srushti1hub" /> </p>
 <h2><img src="girl icon.png" height="30px" width="30px"> About Me</h2>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at **https://github.com/srushti1hub**
 
