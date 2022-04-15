@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React JS**
 
+- 👯 I’m looking to collaborate on **Web based Projects**
+
 - 👨‍💻 All of my projects are available at **https://github.com/srushti1hub**
 
 - 📫 How to reach me **srushtirtv18@gmail.com**
