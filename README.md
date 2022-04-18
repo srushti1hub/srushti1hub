@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
-<h1 align="center">Hi, I'm Srushti <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> !</h1>
+<h1 align="center">Hi, I'm Srushti Rathva<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> !</h1>
 <img src="hello.gif" align="right" height="275px" width="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srushti1hub&label=Profile%20Views&color=0e75b6&style=flat" alt="srushti1hub" /> </p>
+
 <h2><img src="girl icon.png" height="30px" width="30px"> About Me</h2>
 
 - 🌱 I’m currently learning **React JS**
@@ -11,6 +12,8 @@
 - 👨‍💻 All of my projects are available at **https://github.com/srushti1hub**
 
 - 📫 How to reach me **srushtirtv18@gmail.com**
+
+- ⚡ Fun fact : Jack of all trades , Master of None ! 
 
 <h2><img src="handshake.png" height="32px" width="42px"> Connect with Me</h2>
 <p align="left">
