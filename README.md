@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Web based Projects**
 
-- 👨‍💻 All of my projects are available at **https://github.com/srushti1hub**
+- 👨‍💻 All of my projects are available at [github](https://github.com/srushti1hub).
 
 - 💁🏻‍♀️ Check out my [Portfolio](https://srushti1hub.github.io/Personal-Website-2.0/).
 
