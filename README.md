@@ -15,6 +15,8 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/srushti1hub**
 
+- 💁🏻‍♀️ Check out my [Portfolio](https://srushti1hub.github.io/Personal-Website-2.0/).
+
 - 📫 How to reach me **srushtirtv18@gmail.com**
 
 - ⚡ Fun fact : Jack of all trades , Master of None ! 
