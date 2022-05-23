@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
-<h1 align="center">Hi, I'm Srushti Rathva<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> !</h1>
+<h1 align="center">Hi, I'm Srushti <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> !</h1>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=srushti1hub&label=Profile%20Views&color=0e75b6&style=flat" alt="srushti1hub" /> 
 <img src="https://img.shields.io/badge/focus-MERN%20Stack-brightgreen" alt="srushti1hub" />
