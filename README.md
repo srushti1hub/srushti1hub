@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/srushti1hub).
 
-- 💁🏻‍♀️ Check out my [Portfolio](https://srushti1hub.github.io/Personal-Website-2.0/).
+<!-- - 💁🏻‍♀️ Check out my [Portfolio](https://srushti1hub.github.io/Personal-Website-2.0/). -->
 
 - 📫 How to reach me **srushtirtv18@gmail.com**
 
