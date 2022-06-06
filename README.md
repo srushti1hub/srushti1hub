@@ -47,4 +47,4 @@
 <h2><img src="github stats.png" height="40px" width="25px"> Github Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srushti1hub&show_icons=true&locale=en&layout=compact" alt="srushti1hub" /><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=srushti1hub&" alt="srushti1hub" height ="165px"/></p>
 
-<!-- <p><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=srushti1hub&&theme=react-dark" height="400px"/></a></p> -->
+<p><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=srushti1hub&&theme=react-dark" height="400px"/></a></p>
