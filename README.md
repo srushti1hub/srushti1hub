@@ -22,6 +22,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/srushti-rathva-7913961b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srushti rathva" height="30" width="40" /></a>
  <a href="https://twitter.com/thesrushty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesrushty" height="30" width="40" /></a>
+<a href="https://dev.to/srushtie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="srushtie" height="30" width="40" /></a>
+<a href="https://medium.com/@srushtie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srushtie" height="30" width="40" /></a>
+<a href="https://kaggle.com/srushtirathva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srushtirathva" height="30" width="40" /></a>
+<a href="https://dribbble.com/sciver45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sciver45" height="30" width="40" /></a>
 <a href="https://g.dev/theSrushtie" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v6cd15f45ec209c8961e07ea7e57ed9a0e9da4333bc915e67d1fcd2b2a9ec62d1/developers/images/touchicon-180.png" alt="theSrushtie" height="30" width="30" /></a>
 </p>
 
