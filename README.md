@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+![Readme Banner](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi, I'm Srushti <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"> !</h1>
 <p align="center"><img src="hello.gif" height="275px" width="400"></p>
 <h2><img src="girl icon.png" height="30px" width="30px"> About Me</h2>
