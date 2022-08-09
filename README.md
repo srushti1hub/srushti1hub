@@ -3,7 +3,7 @@
 <p align="center"><img src="hello.gif" height="275px" width="400"></p>
 <h2><img src="girl icon.png" height="30px" width="30px"> About Me</h2>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Solidity**
 
 - 👯 I’m looking to collaborate on **Web based Projects**
 
