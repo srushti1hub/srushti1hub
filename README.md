@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/srushti1hub).
 
-- 💁🏻‍♀️ Check out my recent [article](https://dev.to/srushtie/microsoft-engage-2022-experience-4g0b).
+- 💁🏻‍♀️ Check out my [portfolio](https://srushti1hub.github.io/portfolio/).
 
 - 📫 How to reach me **srushtirtv18@gmail.com**
 
