@@ -43,9 +43,12 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="reactjs" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+<a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank" rel="noreferrer"> <img src="https://github.com/srushti1hub/portfolio/blob/main/assets/icons/solidity.svg" alt="solidity" width="40" height="40"/></a>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/srushti1hub/portfolio/blob/main/assets/icons/ethereum.png" alt="ethereum" width="40" height="40"/> </a>
+<a href="https://trufflesuite.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/srushti1hub/portfolio/blob/main/assets/icons/truffle.png" alt="truffle" width="40" height="40"/></a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/srushti1hub/portfolio/blob/main/assets/icons/metamask.png" alt="metamask" width="40" height="40" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
 <h2><img src="github stats.png" height="40px" width="25px"> Github Stats</h2>
